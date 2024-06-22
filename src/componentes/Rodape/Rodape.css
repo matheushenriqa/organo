@@ -1,0 +1,31 @@
+.rodape {
+    height: 233px;
+    background: url('../../../public/imagens/fundo.png');
+    background-size: cover;
+    background-position: center;
+    background-color: #6278F7;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.rodape .social {
+    display: flex;
+    gap: 32px;
+}
+
+.rodape .social img {
+    height: 30px;
+}
+
+.rodape .logo img{
+    width: 166px;
+    height: 63px;
+}
+
+.rodape .desenvolvido-por p {
+    font-size: 20px;
+    color: #FFF;
+}
