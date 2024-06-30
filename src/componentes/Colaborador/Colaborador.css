@@ -1,5 +1,6 @@
 .colaborador {
     width: 280px;
+    position: relative;
 }
 
 .colaborador .cabecalho-colaborador {
@@ -34,4 +35,14 @@
     line-height: 22px;
     color: #212121;
     padding: 0 16px;
+}
+
+.deletar {
+    position: absolute;
+    top: -9px;
+    right: -9px;
+}
+
+.favoritar {
+    margin-top: '0px';
 }

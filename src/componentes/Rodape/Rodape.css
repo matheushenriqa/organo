@@ -1,8 +1,5 @@
 .rodape {
     height: 233px;
-    background: url('../../../public/imagens/fundo.png');
-    background-size: cover;
-    background-position: center;
     background-color: #6278F7;
 
     display: flex;
